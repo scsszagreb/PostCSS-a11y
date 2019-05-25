@@ -8,7 +8,7 @@ Slides and examples from our [S(CSS)\_Zagreb meetup](https://www.meetup.com/S_CS
 
     -   Speaker: [Matija Marohnić](https://github.com/silvenon)
     -   Description: Matija will show us what PostCSS is and how it compares to other preprocessors like Sass. We will learn how it works, what AST is, and what PostCSS plugins do.
-    -   Check out the [slides](link)
+    -   Check out the [slides](https://speakerdeck.com/silvenon/postcss)
 
 -   Accessibility 101 💻
     -   Speaker: [Neven Đuranec](https://github.com/nevenduranec)
